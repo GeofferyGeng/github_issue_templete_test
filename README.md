@@ -1,0 +1,2 @@
+# github_issue_templete_test
+github_issue_templete_test for nccl
